@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<head><title>Mohitth SM MD5 Cracker</title></head>
+<head><title>Nikkila MD5 Cracker</title></head>
 <body>
 <h1>MD5 cracker</h1>
 <p>This application takes an MD5 hash
